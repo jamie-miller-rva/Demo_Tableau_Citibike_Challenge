@@ -3,6 +3,8 @@ Class Demo on Tableau techniques to complete the Citibike challenge
 
 [link to Tableau Public](https://public.tableau.com/views/UCF_Demo_Tableau_Citibike_test/TripsbyUsertype?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+[link to Tableau Public Worksheet](https://public.tableau.com/views/UCF_Demo_Tableau_Citibike_AUG_2019/TripsbyUsertype?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 # Our Citibike Story:
 
 ## Where do rides start (and end)?
