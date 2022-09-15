@@ -1,6 +1,7 @@
 # ignore large citibike csv file
 201908-citibike-tripdata.csv
-Citibike_AUG_08.csv
+Citibike_AUG_09.csv
+Citibike_AUG_2019.csv
 
 
 # Byte-compiled / optimized / DLL files
