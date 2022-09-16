@@ -1,14 +1,15 @@
 # Demo_Tableau_Citibike_Challenge
 Class Demo on Tableau techniques to complete the Citibike challenge
 
-[link to Tableau Public](https://public.tableau.com/views/UCF_Demo_Tableau_Citibike_test/TripsbyUsertype?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
 [link to Tableau Public Worksheet](https://public.tableau.com/views/UCF_Demo_Tableau_Citibike_AUG_2019/TripsbyUsertype?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[link to deployed github pages](https://jamie-miller-rva.github.io/Demo_Tableau_Citibike_Challenge/)
 
 # Our Citibike Story:
 
 ## Where do rides start (and end)?
-* map of start/endpoint
+* map of start/endpoint <br>
+![map of start stations]("Images/Where_do_rides_start.png")
 
 ## Who rides?
 * by usertype
