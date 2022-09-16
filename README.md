@@ -9,7 +9,7 @@ Class Demo on Tableau techniques to complete the Citibike challenge
 
 ## Where do rides start (and end)?
 * map of start/endpoint <br>
-![map of start stations]("Images/Where_do_rides_start.png")
+
 
 ## Who rides?
 * by usertype
